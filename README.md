@@ -20,4 +20,3 @@ If you've stumbled upon my profile, you must be exploring the depths of the inte
 - VSCodium 🪸 | WebStorm 🌩 | Neovim 🇳
 - Obsidian 🪨
 - Firefox 🦊
-- Syncthing 🕸
