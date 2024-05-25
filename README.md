@@ -10,7 +10,7 @@ If you've stumbled upon my profile, you must be exploring the depths of the inte
 
 ## 📖 Learning
 
-- Rust 🦀 
+- Go 🐹
 - Security related things 🔐 (_Mom come pick me up I'm scared_)
 
 ## 📋 Software I use
