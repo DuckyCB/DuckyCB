@@ -15,8 +15,8 @@ If you've stumbled upon my profile, you must be exploring the depths of the inte
 
 ## 📋 Software I use
 
-- Fedora 🎩 | Tumbleweed 🦎 (btw I don't use Arch)
+- Fedora 🎩 (btw I don't use Arch)
 - Gnome 🐾
-- VSCodium 🪸 | WebStorm 🌩 | Neovim 🇳
+- WebStorm 🌩 | Zed 🔲 | VSCodium 🪸 | Neovim 🇳
 - Obsidian 🪨
 - Firefox 🦊
