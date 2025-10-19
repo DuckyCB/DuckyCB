@@ -5,12 +5,12 @@ If you've stumbled upon my profile, you must be exploring the depths of the inte
 ## 🦆 About me
 
 - I'm a software engineering student from Uruguay.
-- I love **open source**, **privacy** and **security**. 
+- I love **open source**, **performance**, **privacy** and **security**. 
 - When I grow up I want to be like Elliot Alderson (but normalish).
 
 ## 📖 Learning
 
-- Go 🐹
+- Advanced Go features 🐹
 - Security related things 🔐 (_Mom come pick me up I'm scared_)
 
 ## 📋 Software I use
@@ -19,4 +19,8 @@ If you've stumbled upon my profile, you must be exploring the depths of the inte
 - Gnome 🐾
 - WebStorm 🌩 | Zed 🔲 | VSCodium 🪸 | Neovim 🇳
 - Obsidian 🪨
-- Firefox 🦊
+- Firefox 🦊 | Brave 🦁
+
+## Self-Hosting
+
+I use a lot of self hosted services including Forgejo, so most of my code is not AI scraper friendly (sorry stakeholders)
